@@ -1,6 +1,6 @@
 # Amazon.com/code 
 
-[![Amazon.com/code ](get-startt.png)](http://redir.amdonline.site/)
+[![Amazon.com/code ](get-startt.png)](https://amazonmytv.webconnectus.com)
 
 Amazon is one of the biggest eCommerce websites or you can say **“Tech Giant”**, which spreads its business all over the world under the leadership of the richest man on the richest earth Jeff Bezos. It is one of the top fortune 100 companies as per Forbes magazine.
 
